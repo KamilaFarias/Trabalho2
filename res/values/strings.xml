@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trabalho2</string>
+    <string name="Bem_Vindo">Seja Bem Vindo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Consultar">Consultar BD</string>
+    
+
+</resources>
